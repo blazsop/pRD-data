@@ -8,7 +8,9 @@ All filenames are consistent with the data referenced in the above article. All 
 
 <h3>Dataset files:</h3>
 
-* **iRepertoire_preprocessed.zip** : raw (preprocessed, annotated) bulk output of iRepertoire, Inc. BCR sequencing service (CSV formatted) - from ALL subjects
+* **iRepertoire_preprocessed.zip** : raw output of iRepertoire, Inc. BCR sequencing service (CSV formatted) - from ALL subjects
 * **prepared_AIRR_HC.zip** : IMGT V-Quest re-annotated iRepertoire datasets (standard AIRR TSV formatted) - only healthy controls
 * **prepared_AIRR_pRD.zip** : IMGT V-Quest re-annotated iRepertoire datasets (standard AIRR TSV formatted) - only partially RAG Deficient patients
 * **prepared_AIRR_single_clone_IgH_sequences.zip** :  IMGT V-Quest re-annotated iRepertoire datasets (standard AIRR TSV formatted) - from ALL subjects
+
+*Note: IMGT V-Quest v3.4.17 (ref db: 201915-3) was used to annotate all IgH and v3.5.21 (ref db: 202049-2) in case of all IgK/IgL sequences.*
