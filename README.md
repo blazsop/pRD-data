@@ -4,7 +4,7 @@ This directory contains all input, preprocessed BCRseq (AIRR) datasets for the a
 
 All filenames are consistent with the data referenced in the above article. All files contain proerly aligned and annotated IgH, IgL and IgK sequences for each subject.
 
-**Important**: Strict file naming and placing conventions are used. If you want to process this data with <a href="github.com/blazsop/airrmine">AIRRMINE</a> system, DO NOT CHANGE the names of the files and read its documantation carefully (see the example data) on where to copy these files.
+**Important**: Strict file naming and placing conventions are used. If you want to process this data with <a href="https://github.com/blazsop/airrmine">AIRRMINE</a> system, DO NOT CHANGE the names of the files and read its documantation carefully (see the example data) on where to copy these files before running data analysis.
 
 <h3>Dataset files:</h3>
 
