@@ -1,6 +1,6 @@
 <h2>pRD-data repository</h2>
 
-This directory contains all input, preprocessed BCRseq (AIRR) datasets for the article titled *"Partial RAG deficiency in humans favors expansion of autoreactive B cells with extrafollicular fate"*.
+This directory contains all input, preprocessed BCRseq (AIRR) datasets for the article titled *"Partial RAG deficiency in humans induces dysregulated peripheral lymphocyte development and humoral tolerance defect with accumulation of T-bet+ B cells"*.
 
 All filenames are consistent with the data referenced in the above article. All files contain properly aligned and annotated sequences for each subject.
 
