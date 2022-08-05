@@ -1,8 +1,6 @@
 <h2>pRD-data repository</h2>
 
-**CAUTION: This page is currently under reconstruction! Check back in 2-3 hours later (after 2 pm CEST, 2022-08-05)!**
-
-This directory contains all input, preprocessed BCRseq (AIRR) datasets for the article titled *"Partial RAG deficiency in humans induces dysregulated peripheral lymphocyte development and humoral tolerance defect with accumulation of T-bet+ B cells"*.
+This directory contains all input, preprocessed BCRseq (AIRR) datasets for the Nature Immunology article titled *"Partial RAG deficiency in humans induces dysregulated peripheral lymphocyte development and humoral tolerance defect with accumulation of T-bet+ B cells"*. Reference: https://doi.org/10.1038/s41590-022-01271-6
 
 All filenames are consistent with the data referenced in the above article. All files contain properly aligned and annotated sequences for each subject.
 
